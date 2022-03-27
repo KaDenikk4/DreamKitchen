@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/DreamKitchen/Scenes/Cutting.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/DreamKitchen/Scenes/OrderListPopUp.unity
+    guid: 1f7cd04827255f0468195d4fd517b7bd
+  - enabled: 0
+    path: Assets/DreamKitchen/Scenes/ZenMode.unity
+    guid: 509b36a1043faad4d9132ab05840de48
+  m_configObjects: {}

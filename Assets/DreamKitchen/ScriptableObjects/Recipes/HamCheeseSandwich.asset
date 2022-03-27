@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19e76d8486cd4134b855e95f30a316af, type: 3}
+  m_Name: HamCheeseSandwich
+  m_EditorClassIdentifier: 
+  recipeName: Ham & Cheese Sandwich
+  recipeDescription: Melted cheese will melt your heart <3
+  recipeIcon: {fileID: 21300000, guid: 5f48cf3609ef8b94599f4b735617dae4, type: 3}
+  recipePrice: 20
+  ingredientList:
+  - {fileID: 11400000, guid: a51ca516e23884b4e8194ce5f45911aa, type: 2}
+  - {fileID: 11400000, guid: 2e2b2ed72cd6c834d852a9c1c46ff42d, type: 2}
+  - {fileID: 11400000, guid: 2c0f3bdbc33a19e46ad300f75dccf63f, type: 2}
+  - {fileID: 11400000, guid: a51ca516e23884b4e8194ce5f45911aa, type: 2}

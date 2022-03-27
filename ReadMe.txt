@@ -1,9 +1,9 @@
-##Hello there! 
+Hello there! 
 
-#team amount: 4 people
+team amount: 4 people
 A 2D UI based mobile game inspired by “Order Up!! To Go”. Prevent your kitchen from becoming a nightmare by cooking quicker and more accurately. Prepare delicious meals and decorate your kitchen to your own taste. Unlock more recipes and décor as you tap away preparing your favorite dishes.
 
-#personal impact:
+personal impact:
 Worked with a UI set-up and UI mechanics
 Developed base code for the orders and ingredients
 Created a cutting minigame (2 variants)
